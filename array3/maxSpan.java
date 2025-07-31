@@ -4,7 +4,9 @@ public int maxSpan(int[] nums) {
         for (int j = nums.length - 1; j >= i; j--) {
             if (nums[i] == nums[j]) {
                 int span = j - i + 1;
-                if (span > maxSpan) maxSpan = span;
+                if (span > maxSpan) {
+                    maxSpan = span;
+                }
                 break;
             }
         }
