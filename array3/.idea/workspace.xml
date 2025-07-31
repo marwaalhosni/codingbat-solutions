@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab7044e2-07c4-4c33-853b-b081c7f29cce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/alarmClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/alarmClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/answerCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/answerCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/blueTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/blueTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/caughtSpeeding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/caughtSpeeding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/cigarParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/cigarParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/dateFashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/dateFashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/fizzString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/fizzString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/fizzString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/fizzString2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/greenTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/greenTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/in1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/in1To10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/inOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/inOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/inOrderEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/inOrderEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/lastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/less20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/less20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/lessBy10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/lessBy10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/love6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/love6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/maxMod5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/maxMod5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/more20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/more20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/nearTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/nearTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/old35.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/old35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/redTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/redTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/shareDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/shareDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/sortaSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/sortaSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/specialEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/specialEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/squirrelPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/squirrelPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/sumLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/sumLimit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/teaParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/teaParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/teenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/teenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/twoAsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/twoAsOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logic1/withoutDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Logic1/withoutDoubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backAround" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/closeFar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/closeFar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/evenlySpaced.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/evenlySpaced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/loneSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/loneSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/luckySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/luckySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/makeChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/makeChocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logic2/roundSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logic2/roundSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../missingChar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startHi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/bobThere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/bobThere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/catDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/catDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/countCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/countCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/countHi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/countHi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/doubleChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/doubleChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/endOther.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/endOther.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/getSandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/getSandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/mixString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/mixString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/oneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/oneTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/plusOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/plusOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/prefixAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/prefixAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/repeatEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/repeatEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/repeatFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/repeatFront.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/repeatSeparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/repeatSeparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/sameStarChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/sameStarChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/starOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/starOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/wordEnds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/wordEnds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/xyBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/xyBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/xyzMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/xyzMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/xyzThere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/xyzThere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string2/zipZap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string2/zipZap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="30e7YhqZAroaGMRMGrb1DjPMC7W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing array3-canBalance"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab7044e2-07c4-4c33-853b-b081c7f29cce" name="Changes" comment="" />
+      <created>1753976236297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753976236297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
